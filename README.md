@@ -32,7 +32,7 @@ Hope you enjoy
 
 **Installation :**
 
-> Down the script from this github
+> Download the script via [download zip](https://github.com/ali-exacute/mumble-mute/archive/refs/heads/main.zip)
 
 > Copy it to your server `resources` folder
 
