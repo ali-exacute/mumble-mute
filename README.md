@@ -1,3 +1,5 @@
+**if you are using pma-voice , that already support this function ! you dont need this**
+
 ![IMG](https://cdn.discordapp.com/attachments/613984464267247626/902818700908961842/Screenshot_2021-10-27_103003.jpg)
 
 ![IMG2](https://cdn.discordapp.com/attachments/613984464267247626/902819099900522496/Screenshot_2021-10-27_105029.jpg)
